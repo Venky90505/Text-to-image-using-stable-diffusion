@@ -1,4 +1,4 @@
-**####Prompt to Image Generator**
+**Text to Image Generator**
 
 This project uses Stable Diffusion and Gradio to generate AI images from text prompts. It enables users to enter any imaginative prompt and receive images generated using cutting-edge deep learning models.
 
